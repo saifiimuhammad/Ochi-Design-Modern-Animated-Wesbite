@@ -14,7 +14,7 @@ function Featured() {
                     </h1>
                     <h3 className="card-title uppercase mb-4 flex items-center">
                         <div className="w-3 h-3 rounded-full bg-zinc-100 mr-[1rem]"></div> Fyde</h3>
-                    <div className="card-content w-full h-full bg-[url('https://ochi.design/wp-content/uploads/2023/10/Fyde_Illustration_Crypto_2-663x551.png')] rounded-lg  border-[1px] border-zinc-800">
+                    <div className="card-content w-full h-full bg-[url('https://ochi.design/wp-content/uploads/2023/10/Fyde_Illustration_Crypto_2-663x551.png')] rounded-xl  border-[1px] border-zinc-800">
 
                     </div>
                 </div>
@@ -24,7 +24,7 @@ function Featured() {
                 </h1>
                     <h3 className="card-title uppercase mb-4 flex items-center">
                         <div className="w-3 h-3 rounded-full bg-zinc-100 mr-[1rem]"></div> Vise</h3>
-                    <div className="card-content w-full h-full bg-[url('https://ochi.design/wp-content/uploads/2022/09/Vise_front2-663x551.jpg')] rounded-lg  border-[1px] border-zinc-800">
+                    <div className="card-content w-full h-full bg-[url('https://ochi.design/wp-content/uploads/2022/09/Vise_front2-663x551.jpg')] rounded-xl  border-[1px] border-zinc-800">
 
                     </div>
                 </div>
